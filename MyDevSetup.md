@@ -17,10 +17,18 @@ checkout this You Tube Video : https://www.youtube.com/watch?v=-nh9rCzPJ20 (lear
 
 3. Setup an environment for Data Science with Python - like in Coursera IBM Specialization
 ``` Code
-(including Juypter Labs - not Jupyter notebooks, Apache Notebooks, R Studio, and something with Scala - I dont intend to use)
-```
+Skills Network Labs (RStudio, Jupyter Notebook, and Zeppelin Notebook)
+
+- Juypter Labs - not Jupyter notebooks, 
+- Apache Notebooks, 
+- R Studio, 
+- something with Scala - I dont intend to use)
+
+``` (RStudio, Jupyter Notebook, and Zeppelin Notebook)
+
 
 
 ## Other things
+
 
 
