@@ -19,3 +19,8 @@ checkout this You Tube Video : https://www.youtube.com/watch?v=-nh9rCzPJ20 (lear
 ``` Code
 (including Juypter Labs - not Jupyter notebooks, Apache Notebooks, R Studio, and something with Scala - I dont intend to use)
 ```
+
+
+## Other things
+
+
