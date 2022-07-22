@@ -2,7 +2,7 @@
 
 This is a standard list of things which I have read and would like to read
 
-* Books
+* [Books](MyReadings/MyBlogReads.md)
 
 * Papers
 
